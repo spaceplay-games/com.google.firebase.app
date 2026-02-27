@@ -6,6 +6,9 @@ on:
     - cron: '0 6 * * 1'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update:
     uses: spaceplay-games/unity-firebase-upm/.github/workflows/update-package.yml@main
