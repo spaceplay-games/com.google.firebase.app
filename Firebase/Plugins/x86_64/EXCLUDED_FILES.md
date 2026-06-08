@@ -2,7 +2,7 @@
 
 The following files exceed GitHub's 100MB file size limit and are excluded from this repository:
 
-- `FirebaseCppApp-13_11_0.bundle` (107MB)
+- `FirebaseCppApp-13_12_0.bundle` (105MB)
 
 ## Impact
 
@@ -15,7 +15,7 @@ The following files exceed GitHub's 100MB file size limit and are excluded from 
 Download the files manually from Google's registry:
 
 ```
-https://dl.google.com/games/registry/unity/com.google.firebase.app/com.google.firebase.app-13.11.0.tgz
+https://dl.google.com/games/registry/unity/com.google.firebase.app/com.google.firebase.app-13.12.0.tgz
 ```
 
 Extract and copy the missing files to the appropriate directory.
